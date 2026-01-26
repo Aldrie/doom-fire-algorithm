@@ -43,6 +43,7 @@ These people are making this repository **MORE THAN AWESOME**.
 - [Java Graphics2D Implementation](https://github.com/filipedeschamps/doom-fire-algorithm/tree/master/playground/java-graphics2d-implementation) ([@fabiodelabruna](https://github.com/fabiodelabruna))
 - [Making the fire more real, removing right to left site wind effect](https://filipedeschamps.github.io/doom-fire-algorithm/playground/doom-fire-more-real) ([@rattones](https://github.com/rattones))
 - [C++ Qt Multiplatform Implementation](https://github.com/filipedeschamps/doom-fire-algorithm/tree/master/playground/cpp-qt-implementation) ([@guidefloripa](https://github.com/guidefloripa))
+- [C++ using raylib framework Implementation](https://github.com/filipedeschamps/doom-fire-algorithm/tree/master/playground/cpp-raylib-implementation) ([@franksteps](https://github.com/franksteps))
 - [First Go Terminal Implementation](https://github.com/ayang64/doomfire) ([@ayang64](https://github.com/ayang64))
 - [C and Allegro 5](https://github.com/filipedeschamps/doom-fire-algorithm/tree/master/playground/allegro5-c-fire) ([@lucasew](https://github.com/lucasew))
 - [Python 3 with PyGame](https://github.com/filipedeschamps/doom-fire-algorithm/tree/master/playground/python3-pygame-implementation) ([@DayllonXavier](https://github.com/DayllonXavier))
